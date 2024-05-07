@@ -1,0 +1,19 @@
+{
+  "name": "client_encryption",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "rollup --config "
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^4.17.1",
+    "rollup-plugin-polyfill-node": "^0.13.0"
+  },
+  "dependencies": {
+    "rollup-plugin": "^1.0.0"
+  }
+}
